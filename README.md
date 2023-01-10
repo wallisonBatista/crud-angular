@@ -6,6 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 `npm run start` for dev server. Navigate to `http://localhost:4200/`.
 
+## Erro ao Atualizar angular
+excluir o node_modules e o package-lock.json e rodar o npm install depois utilizar o ng update atualizando os pacotes que faltaram `compare a versão que aparece na resposta do ng update com a versão do projeto no package.json`
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
