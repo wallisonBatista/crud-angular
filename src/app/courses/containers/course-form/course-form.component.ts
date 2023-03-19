@@ -3,8 +3,8 @@ import { Component, OnInit } from '@angular/core';
 import { NonNullableFormBuilder } from '@angular/forms';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { ActivatedRoute } from '@angular/router';
-import { Course } from '../../model/course';
 
+import { Course } from '../../model/course';
 import { CoursesService } from '../../services/courses.service';
 
 @Component({
